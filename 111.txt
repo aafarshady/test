@@ -1,6 +1,3 @@
 hi 
-
- 
-
 a 
 branch1.2
