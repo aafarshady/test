@@ -1,4 +1,9 @@
-hi 
+hi change in local
 a 
+<<<<<<< Updated upstream
 newwwwwwwww
 
+=======
+branch1.2
+11111111111111111
+>>>>>>> Stashed changes
