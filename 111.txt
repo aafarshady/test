@@ -1,9 +1,8 @@
 hi change in local
-a 
-<<<<<<< Updated upstream
+ali akbar 
 newwwwwwwww
-
-=======
-branch1.2
 11111111111111111
->>>>>>> Stashed changes
+rezaaaaa
+edite in remote repository and ali branch
+edite final 1
+edit in remote repository and work3
